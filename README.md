@@ -6,13 +6,11 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently studying
+- 🔭 I’m currently studying & open to work
   
-- 🌱 I’m currently learning C++ and n8n
+- 🌱 I’m Junior developing with Javascript & React
   
 - 👯 I’m looking to collaborate on projects
-  
-- 💬 Ask me about JavaScript
   
 - ⚡ Fun fact: Im also a drummer
 
